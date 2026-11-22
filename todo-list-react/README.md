@@ -1,6 +1,6 @@
 Nama : Muhammad Sandi
 NIM : 251401144  
-KOM : c  
+KOM : C  
 LAB : 6
 
 | Halaman | Screenshot |
